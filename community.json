@@ -2292,7 +2292,7 @@
       "author": "trackdriver",
       "description": "a synth for norns based on additive synthesis",
       "discussion_url": "https://llllllll.co/t/overtones",
-      "documentation_url": "https://github.com/TheTrackdriver/overtones/blob/main/manual/overtones%20manual.pdf",
+      "documentation_url": "https://github.com/TheTrackdriver/overtones",
       "tags": ["synth", "additive", "midi", "grid", "harmonics"]
     },
     {
