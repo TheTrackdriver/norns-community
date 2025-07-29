@@ -2287,6 +2287,15 @@
       ]
     },
     {
+      "project_name": "overtones",
+      "project_url": "https://github.com/TheTrackdriver/overtones",
+      "author": "trackdriver",
+      "description": "a synth for norns based on additive synthesis",
+      "discussion_url": "https://llllllll.co/t/overtones",
+      "documentation_url": "https://github.com/TheTrackdriver/overtones/blob/main/manual/overtones%20manual.pdf",
+      "tags": ["synth", "additive", "midi", "grid", "harmonics"]
+    },
+    {
       "project_name": "overwintering",
       "project_url": "https://github.com/markwheeler/overwintering",
       "author": "markeats",
